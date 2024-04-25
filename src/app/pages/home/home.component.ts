@@ -1,7 +1,6 @@
 import * as Highcharts from "highcharts";
 
 import { Component, OnInit, inject } from "@angular/core";
-
 import { HighchartsChartModule } from "highcharts-angular";
 import { NavbarComponent } from "../../components/navbar/navbar.component";
 import { RouterLink } from "@angular/router";
